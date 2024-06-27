@@ -1,0 +1,14 @@
+{
+  "name": "one-day-one-type",
+  "version": "1.0.0",
+  "description": "勉強用です。",
+  "main": "warmup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
