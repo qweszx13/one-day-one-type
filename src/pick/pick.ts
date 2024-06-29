@@ -1,5 +1,5 @@
 type MyPick<T, K extends keyof T> = {
-  [key in K]: T[key]
+  [keyParameter in K]: T[keyParameter]
 }
 
 type Namae = {Name : string};
